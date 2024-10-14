@@ -3,7 +3,7 @@
   <img src="https://your-awesome-image.com/banner.png" alt="Project Banner" width="100%" />
 </p>
 
-<h1 align="center">⚡ Welcome to My Amazing Project ⚡</h1>
+<h1 align="center" style="background-color: #282c34; color: white; padding: 20px; border-radius: 10px;">⚡ Welcome to My Amazing Project ⚡</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/yourusername/yourrepo?color=blueviolet&style=for-the-badge" alt="Top Language" />
@@ -11,7 +11,8 @@
   <img src="https://img.shields.io/github/last-commit/yourusername/yourrepo?color=blueviolet&style=for-the-badge" alt="Last Commit" />
 </p>
 
-<!-- INTRO -->
+---
+
 ## 🚀 Introduction
 
 🌟 **Your Project Name** là một dự án [miêu tả về dự án của bạn] để [giải quyết vấn đề gì]. Tại đây bạn sẽ tìm thấy:
@@ -25,7 +26,6 @@
 
 ---
 
-<!-- FEATURES -->
 ## ✨ Features
 
 - 🚀 **Tính năng 1**: Mô tả chi tiết về tính năng 1.
@@ -38,15 +38,14 @@
 
 ---
 
-<!-- TECH STACK -->
 ## 💻 Tech Stack
 
-| Tech | Description |
-| ---- | ----------- |
-| **HTML5** | Ngôn ngữ đánh dấu siêu văn bản |
-| **CSS3** | Cascading Style Sheets |
+| Tech        | Description |
+|-------------|-------------|
+| **HTML5**   | Ngôn ngữ đánh dấu siêu văn bản |
+| **CSS3**    | Cascading Style Sheets |
 | **JavaScript** | Ngôn ngữ lập trình để thêm tính năng động |
-| **React** | Thư viện JavaScript mạnh mẽ cho xây dựng giao diện người dùng |
+| **React**   | Thư viện JavaScript mạnh mẽ cho xây dựng giao diện người dùng |
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oz8xDIpeZZl41PqWI/giphy.gif" alt="Tech Stack Animation" width="500px">
@@ -54,7 +53,6 @@
 
 ---
 
-<!-- SCREENSHOTS -->
 ## 📸 Screenshots
 
 <p align="center">
@@ -64,7 +62,6 @@
 
 ---
 
-<!-- GETTING STARTED -->
 ## 🚀 Getting Started
 
 ### Prerequisites
